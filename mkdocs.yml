@@ -1,0 +1,13 @@
+site_name: Cuadratura Gaussiana
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - index.md
+  - explanation.md
+  - tutorials.md
+  - reference.md
+
